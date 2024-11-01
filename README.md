@@ -25,9 +25,10 @@ State: High sales in Uttar Pradesh, Maharashtra, and Karnataka.
 Occupation & Marital Status: High spending among married individuals in IT, Healthcare, and Aviation.
 Product Category: Popular items include Food, Clothing, and Electronics.
 
-#Key Insights
+Key Insights
 
 Target Demographic: Married women aged 26-35.
+
 Popular Products: High demand for Food, Clothing, and Electronics.
 
 Usage

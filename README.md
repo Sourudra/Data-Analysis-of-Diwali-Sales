@@ -5,7 +5,7 @@ Overview
 
 An analysis of Diwali sales data to understand customer demographics, spending patterns, and popular products. This helps optimize marketing and inventory strategies.
 
-#Dataset
+Dataset
 
 Source: CSV file with 11,251 records.
 Features: Customer info, transactions, and product details.
@@ -13,6 +13,7 @@ Features: Customer info, transactions, and product details.
 Requirements
 
 Python libraries: pandas, matplotlib, seaborn
+
 code: pip install pandas matplotlib seaborn
 
 Steps
